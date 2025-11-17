@@ -1,7 +1,7 @@
 # EXP-4-Home-Automation-System-with-IOT
 
 # Aim:
-	To make a Lamp at home (230 V AC) On / Off using ESP8266, IFTT Google Assistance and Blynk IoT mobile application. 
+To make a Lamp at home (230 V AC) On / Off using ESP8266, IFTT Google Assistance and Blynk IoT mobile application. 
 # Hardware / Software Tools required :
 PC with Internet connection
 Micro USB cable
